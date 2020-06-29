@@ -154,14 +154,14 @@ p {
 .cta-heading {
   font-family: 'Montserrat', sans-serif;
   font-weight: 900;
-  font-size: 4rem;
+  font-size: 3.5rem;
   line-height: 1.5;
   color: #fff;
 }
 
 /* Footer section */
 
-.footer {
+#footer {
   background-color: white;
   text-align: center;
   padding: 5%;
